@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 alterando
+=======
+Meu nome é Camila!
+>>>>>>> 1795a7a80180628d959cc802f2a3c8231268d418
